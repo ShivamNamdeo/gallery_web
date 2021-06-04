@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "galllery-web",
+    "gallery_web": "galllery-web"
+  }
+}
